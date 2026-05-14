@@ -1,0 +1,1 @@
+This is a deliberately invalid upload fixture for negative test coverage.
